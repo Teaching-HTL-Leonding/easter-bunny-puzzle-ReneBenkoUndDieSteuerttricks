@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "keywords": [],
-  "author": "",
+  "author": "Felix 'montesglied3' Assmann",
   "license": "MIT",
   "description": "Starter Code for p5 + Vite + TypeScript",
   "devDependencies": {
